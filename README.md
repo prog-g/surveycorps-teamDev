@@ -1,2 +1,2 @@
-# -surveycorps-teamDev
+# surveycorps-teamDev
 チーム開発用リポジトリ
